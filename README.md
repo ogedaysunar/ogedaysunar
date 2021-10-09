@@ -1,6 +1,6 @@
 # Hello World 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!;My+name+is+G%C3%B6kberk+Bardak%C3%A7%C4%B1.;Nice+to+meet+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C;My+Name+is+%C3%96geday)](https://git.io/typing-svg)]
 
 Hi! My name is Ögeday Sunar.<br/>
 I am a Mobile Application Developer.
