@@ -5,7 +5,7 @@
 Hi! My name is Ögeday Sunar.<br/>
 I am a Mobile Application Developer.
 
- - 🏢 I'm currently working at **Vakıfbank**.
+ - 🏢 I'm currently working at **Colendi**.
  - 🔭 Bachelor's degree in **Software Engineering**.
  - ⚙️ I use: `.swift`, `.objective C`, `.js`, `.java`, `.dart`
  - 🌱 Learning all about Flutter
