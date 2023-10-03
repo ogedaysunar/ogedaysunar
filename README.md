@@ -10,9 +10,6 @@ I am a Mobile Application Developer.
  - ⚙️ I use: `.swift`, `.objective C`, `.js`, `.java`, `.dart`
  - 🌱 Learning all about Flutter
 
-## Learning
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 ## Expertise
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
