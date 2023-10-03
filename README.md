@@ -7,8 +7,7 @@ I am a Mobile Application Developer.
 
  - 🏢 I'm currently working at **Colendi**.
  - 🔭 Bachelor's degree in **Software Engineering**.
- - ⚙️ I use: `.swift`, `.objective C`, `.js`, `.java`, `.dart`
- - 🌱 Learning all about Flutter
+ - ⚙️ I use: `.swift`, `.objective C`, `.js`, `.java`, `.dart`, `.flutter`
 
 ## Expertise
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
